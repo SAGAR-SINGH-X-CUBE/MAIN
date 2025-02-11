@@ -1,3 +1,6 @@
 [submodule "CSS"]
 	path = CSS
 	url = https://github.com/SAGAR-SINGH-X-CUBE/CSS.git
+[submodule "JS"]
+	path = JS
+	url = https://github.com/SAGAR-SINGH-X-CUBE/JS.git
